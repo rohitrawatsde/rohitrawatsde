@@ -18,9 +18,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohitrawatcse.netlify.app/)**
 
-- 🔭 I’m currently working on `Rohit Rawat Kosh`.
+- 🔭 I’m currently working on `GPTSkillz`.
 
-- 🌱 I’m currently learning `DevOps - Git and Github, Jenkins, Docker, Ansible, Kubernetes, Nagios [ Azure | AWS | GCP ]`
+- 🌱 I’m currently learning `AI Agents, DevOps Jenkins, Docker, Ansible, Kubernetes [ Azure | AWS | GCP ]`
 
 - 👯 I’m looking to collaborate for `Projects`
 
